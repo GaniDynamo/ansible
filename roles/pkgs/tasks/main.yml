@@ -1,0 +1,4 @@
+ - name: install docker
+   shell: yum install docker -y
+      
+

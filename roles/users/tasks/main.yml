@@ -1,0 +1,13 @@
+- name: creating user balu
+  user:
+    name: balu
+    state: present
+- name: Creating user harsha
+  user:
+    name: harsha
+    state: present
+
+- name: Creating user ganesh
+  user:
+    name: ganesh
+    state: present
